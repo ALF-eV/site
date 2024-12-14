@@ -1,0 +1,20 @@
+baseURL = "https://ALF-eV.github.io/site/"
+languageCode = "en-us"
+theme = "hyde"
+title = "ALF e.V."
+canonifyurls  = true
+[params]
+disqusShortname = ""
+googleAnalytics = ""
+layoutReverse = false
+theme = "hyde"
+themeColor = "theme-base-0d"
+description = "Algorithms for Lattice Fermions Association"
+enableInlineShortcodes = true
+
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+wrapStandAloneImageWithinParagraph = false
+[markup.goldmark.parser.attribute]
+block = true
