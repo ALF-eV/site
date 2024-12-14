@@ -36,3 +36,9 @@ Its staff responsibilities range from code development to community building and
 ### Members
 
 Most members of ALF e.V. are main contributors or users of the ALF package. The list of members is not public, but there is some overlap with the [ALF Collaboration](https://gitpages.physik.uni-wuerzburg.de/ALF/ALF_Webpage/page/team/).
+
+
+### Repository
+
+The Association has a public repository, where its bylaws and other documents can be found:   
+https://github.com/ALF-eV/Association
