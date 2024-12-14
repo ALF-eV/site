@@ -40,5 +40,4 @@ Most members of ALF e.V. are main contributors or users of the ALF package. The 
 
 ### Repository
 
-The Association has a public repository, where its bylaws and other documents can be found:   
-https://github.com/ALF-eV/Association
+The Association has a public repository, where its bylaws and other documents can be found: https://github.com/ALF-eV/Association.
